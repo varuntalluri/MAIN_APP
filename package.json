@@ -1,0 +1,38 @@
+{
+  "name": "main_app",
+  "version": "1.0.0",
+  "description": "CRUD App with Expreess and Mongo DB",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "morgan": "^1.10.0",
+    "saslprep": "^1.0.3",
+    "setprototypeof": "^1.1.1",
+    "sliced": "^1.0.1",
+    "sparse-bitfield": "^3.0.3",
+    "statuses": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varuntalluri/MAIN_APP.git"
+  },
+  "keywords": [
+    "'CRUD'",
+    "'MongoDB'"
+  ],
+  "author": "Varun Talluri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varuntalluri/MAIN_APP/issues"
+  },
+  "homepage": "https://github.com/varuntalluri/MAIN_APP#readme"
+}
